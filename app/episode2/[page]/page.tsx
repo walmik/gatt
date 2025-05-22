@@ -9,7 +9,7 @@ export default function Gatt2Page() {
       imagePath={(page) =>
         `/reference2/${page}.png?height=1080&width=1920&text=COMIC2+${page}`
       }
-      color="green"
+      color="blue"
     />
   );
 }
